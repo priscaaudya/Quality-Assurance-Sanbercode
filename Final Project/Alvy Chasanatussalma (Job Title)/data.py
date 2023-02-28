@@ -1,0 +1,22 @@
+class input():
+    username = "Admin"
+    password = "admin123"
+    resp_header = "Dashboard"
+    resp_jobtitle = "Job Titles"
+
+    input_jobtitle = "Accounting"
+    input_jobtitle2 = "Farmer"
+    input_description = "Pekerjaan yang bertanggungjawab terkait keuangan"
+    input_specification = "C:/gambar/alert.png"
+    input_specification2 = "C:/gambar/maksimum.jpeg"
+    input_note = "dibutuhklan 2 orang"
+    max = "Attachment Size Exceeded"
+
+    edit_jobtitle = "Manager"
+    edit_jobtitle2 = "IT Manager"
+    edit_jobtitle3 = "Teacher"
+    edit_description = "Pekerjaan pemimpin"
+    edit_specification = "C:/gambar/stok.png"
+    edit_note = "ditutup"
+    Req = "Required"
+    same = "Already exists"
